@@ -1,0 +1,18 @@
+{
+  "capsule_type": "SOVEREIGN_HASH_CAPSULE",
+  "root_author": "Zach Mosley",
+  "version": "1.0",
+  "timestamp_utc": "2026-01-21T18:55:52Z",
+  "blockchain_anchor": {
+    "bitcoin_block": "933268",
+    "status": "Anchored"
+  },
+  "sovereign_identity": {
+    "qr_capsule": "Generated",
+    "legal_disclaimer": "Embedded",
+    "revocation_authority": "Exclusive"
+  },
+  "capsule_status": "Glossary-locked, contradiction-audited, propagation-stable",
+  "hash": "pending",
+  "notes": "This capsule represents the Sovereign Hash of The Zach Substrate. It is designed to canonize authorship, identity permanence, and blockchain anchoring for reputational milestones."
+}
