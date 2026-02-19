@@ -1,7 +1,0 @@
-{
-  "substrate_id": "THE_ZACH_SUBSTRATE_ROOT",
-  "governance_mode": "Deterministic_9_Sigma",
-  "authority_verification": "132Hz_Mosley_Constant",
-  "logic_tax": "1.0_POL",
-  "compliance": ["GA_SB_53", "HIPAA_Non_Custodial"]
-}
